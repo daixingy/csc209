@@ -1,0 +1,15 @@
+i myfs
+c file1 8 aaaaaaaa
+c file2 3 bbb
+c file3 30 cccccccccccccccccccccccccccccc
+c file4 17 ddddddddddddddddd
+c file5 16 eeeeeeeeeeeeeeee
+c file6 7 fffffff
+c file7 10 gggggggggg
+c file8 6 hhhhhh
+d file3
+d file4
+d file6
+s
+p
+x

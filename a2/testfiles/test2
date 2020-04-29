@@ -1,0 +1,11 @@
+i myfs
+c file1 5 aaaaa
+c file2 4 bbbb
+c file3 4 cccc
+c file4 3 eee
+d file1
+d file3
+c file5 3 ddd
+s
+p
+x
